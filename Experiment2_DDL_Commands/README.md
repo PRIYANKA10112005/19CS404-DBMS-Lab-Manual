@@ -169,7 +169,7 @@ In the Employee table, insert a record where some fields are NULL, another recor
 EmployeeID  Name          Position    Department  Salary
 ----------  ------------  ----------  ----------  ----------
 5           George Clark  Consultant
-7           Noah Davis    Manager     HR          60000
+7           Noah Davis    Manager     HR          60000 
 8           Ava Miller    Consultant  IT
 ```
 ```sql
