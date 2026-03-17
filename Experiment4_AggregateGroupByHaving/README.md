@@ -10,7 +10,7 @@ These perform calculations on a set of values and return a single value.
 
 - **MIN()** – Smallest value  
 - **MAX()** – Largest value  
-- **COUNT()** – Number of rows  
+- **COUNT()** – Number of rows    
 - **SUM()** – Total of values  
 - **AVG()** – Average of values
 
