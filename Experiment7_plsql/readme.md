@@ -8,7 +8,7 @@ To write and execute simple PL/SQL programs using variables, loops, and conditio
 
 PL/SQL, which stands for Procedural Language extensions to the Structured Query Language (SQL). It is a combination of SQL along with the procedural features of programming languages.
 
-*Syntax:*
+*Syntax:* 
 sql
 DECLARE 
    <declarations section> 
