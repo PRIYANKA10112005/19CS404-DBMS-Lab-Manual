@@ -14,7 +14,7 @@ Returns records with matching values in both tables.
 ```sql
 SELECT columns
 FROM table1
-INNER JOIN table2
+INNER JOIN table2 
 ON table1.column = table2.column;
 ```
 
