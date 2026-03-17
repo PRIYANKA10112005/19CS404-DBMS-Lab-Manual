@@ -13,7 +13,7 @@ A trigger is a stored PL/SQL block that is automatically executed or fired when 
 - Before Trigger: Executes before the operation (INSERT, UPDATE, DELETE).
 - After Trigger: Executes after the operation.
 - Row-level Trigger: Executes for each affected row.
-- Statement-level Trigger: Executes once for the triggering statement.
+- Statement-level Trigger: Executes once for the triggering statement. 
 
 Basic Syntax:
 ```
